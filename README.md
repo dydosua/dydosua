@@ -27,6 +27,11 @@ https://lanyard.cnrad.dev
 [![](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/is_wH2o)
 
 
+<div id="stat" align="center">
+    <script src="https://tryhackme.com/badge/3047778"></script>
+</div>
+
+
 <!--
 **dydosua/dydosua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
