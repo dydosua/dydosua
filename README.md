@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there 👋=
+[![](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/is_wH2o])
+<!--
+https://github-profile-summary-cards.vercel.app/demo.html
+-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dydosua&theme=material_palenight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dydosua&theme=material_palenight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dydosua&theme=material_palenight)
