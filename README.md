@@ -24,7 +24,6 @@ https://github-profile-summary-cards.vercel.app/demo.html
 https://lanyard.cnrad.dev
 -->
 [![Discord Presence](https://lanyard.cnrad.dev/api/1117057516623376394?theme=black&bg=292d3e&animated=true)](https://discord.com/users/1117057516623376394)
-
 [![](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/is_wH2o)
 
 
