@@ -1,6 +1,11 @@
 ## Hi there 👋
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dydosua&theme=material_palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dydosua&theme=material_palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dydosua&theme=material_palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dydosua&theme=material_palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dydosua&theme=material_palenight&utcOffset=8)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1117057516623376394)](https://discord.com/users/1117057516623376394)
 <!--
 **dydosua/dydosua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
