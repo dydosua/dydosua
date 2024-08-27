@@ -1,5 +1,5 @@
 ## Hi there 👋=
-[![](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/is_wH2o])
+[![](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/is_wH2o)
 <!--
 https://github-profile-summary-cards.vercel.app/demo.html
 -->
