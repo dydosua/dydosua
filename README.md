@@ -8,7 +8,7 @@ https://github-profile-summary-cards.vercel.app/demo.html
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dydosua&theme=material_palenight" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dydosua&theme=material_palenight" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dydosua&theme=material_palenight" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dydosua&theme=material_palenight" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dydosua&theme=material_palenight&utcOffset=8" alt=""/>
 </div>
