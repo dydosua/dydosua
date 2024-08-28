@@ -53,6 +53,7 @@ https://lanyard.cnrad.dev
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dydosua)
 [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/is_wH2o)
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1117057516623376394)
+[![OnlyFans](https://img.shields.io/badge/onlyfans-00AFF0?style=for-the-badge&logo=onlyfans&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <!--
 **dydosua/dydosua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
