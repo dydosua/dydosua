@@ -60,7 +60,7 @@ https://github-profile-summary-cards.vercel.app/demo.html
 [![Discord Presence](https://lanyard.cnrad.dev/api/1117057516623376394?theme=black&bg=292d3e&animated=true)](https://discord.com/users/1117057516623376394)
 
 
-## 📫 How to reach me:
+## 📫 How to reach me:    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dydosua)
 <!--    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dydosua)    -->
 [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/is_wH2o)
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1117057516623376394)
