@@ -23,29 +23,30 @@ https://github-profile-summary-cards.vercel.app/demo.html
 -->
 
 
+<!--    Programming language    -->
 ![](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![](https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
+<!--    DBMS    -->
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
+<!--    DBMS    -->
 ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-
+<!--    IDE    -->
+![](https://img.shields.io/badge/phpstorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![](https://img.shields.io/badge/phpstorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 
-<!--
-https://lanyard.cnrad.dev
--->
+<!--    https://lanyard.cnrad.dev    -->
 [![Discord Presence](https://lanyard.cnrad.dev/api/1117057516623376394?theme=black&bg=292d3e&animated=true)](https://discord.com/users/1117057516623376394)
 
 
-<div id="stat" align="center">
+<!--    TryHackMe    -->
+<div id="stat" align="left">
     <img src="https://tryhackme-badges.s3.amazonaws.com/dydosua.png" alt="TryHackMe">    
 </div>
 
