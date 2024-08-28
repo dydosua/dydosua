@@ -40,7 +40,7 @@ https://github-profile-summary-cards.vercel.app/demo.html
 <!--    IDE    -->
 ![](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![](https://img.shields.io/badge/phpstorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-![](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![](https://img.shields.io/badge/goland-000000?style=for-the-badge&logo=goland&logoColor=white)
 ![](https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 <!--    TOOLS    -->
 ![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
