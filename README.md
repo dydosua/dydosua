@@ -52,7 +52,7 @@ https://github-profile-summary-cards.vercel.app/demo.html
 <!--    TryHackMe    -->
 <div id="stat" align="left">
     <img src="https://tryhackme-badges.s3.amazonaws.com/dydosua.png" alt="TryHackMe"  width="270">
-    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/dydosua.png" alt="TryHackMe" width="250">
+    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/dydosua.png" alt="TryHackMe" width="240">
 </div>
 
 
