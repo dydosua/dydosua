@@ -1,9 +1,10 @@
-## Hi there 👋=
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=C792EA&background=FFFFFF00&width=435&lines=Hello%2C+my+name+dydosua)](https://git.io/typing-svg)
 
 
 <!--
 https://github-profile-summary-cards.vercel.app/demo.html
 -->
+
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dydosua&theme=material_palenight" alt=""/>
 <!--
