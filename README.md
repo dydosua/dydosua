@@ -33,7 +33,7 @@ https://lanyard.cnrad.dev
 </div>
 
 
-## 📫 My contacts:
+## 📫 How to reach me:
 [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/is_wH2o)
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1117057516623376394)
 
