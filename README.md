@@ -40,7 +40,8 @@ https://github-profile-summary-cards.vercel.app/demo.html
 ![](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![](https://img.shields.io/badge/phpstorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
 <!--    TOOLS    -->
-![](https://img.shields.io/badge/docker-2496ED?style=for-the-docker&logo=phpstorm&logoColor=white)
+![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/docker-2496ED?style=for-the-docker&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 
