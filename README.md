@@ -31,9 +31,9 @@ https://lanyard.cnrad.dev
 </div>
 
 
-## 📫 Как со мной связаться:
-- [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/is_wH2o)
-- [Twitter](https://twitter.com/ваш_профиль)
+## 📫 My contacts:
+[![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/is_wH2o)
+[![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/is_wH2o)
 
 <!--
 **dydosua/dydosua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
