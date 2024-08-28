@@ -30,6 +30,11 @@ https://github-profile-summary-cards.vercel.app/demo.html
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+![](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+
+![](https://img.shields.io/badge/phpstorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+
+
 <!--
 https://lanyard.cnrad.dev
 -->
