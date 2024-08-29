@@ -52,12 +52,15 @@ https://github-profile-summary-cards.vercel.app/demo.html
 ##
 
 
-<!--    TryHackMe    -->
+<!--    TryHackMe and CyberDefenders     -->
+![TryHackMe]([https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white](https://tryhackme-badges.s3.amazonaws.com/dydosua.png))
+![CyberDefenders]("https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/dydosua.png)
+<!--
 <div id="stat" align="left">
     <img src="https://tryhackme-badges.s3.amazonaws.com/dydosua.png" alt="TryHackMe">
     <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/dydosua.png" alt="CyberDefenders" width="200">
 </div>
-
+-->
 
 <!--    https://lanyard.cnrad.dev    -->
 [![Discord Presence](https://lanyard.cnrad.dev/api/1117057516623376394?theme=black&bg=292d3e&animated=true)](https://discord.com/users/1117057516623376394)
