@@ -29,6 +29,7 @@ https://github-profile-summary-cards.vercel.app/demo.html
 ![](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![](https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![](https://img.shields.io/badge/parrotsecurity-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 <!--    Programming language    -->
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
