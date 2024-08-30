@@ -1,5 +1,5 @@
-##    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C792EA&repeat=false&width=435&lines=Hello%2C+my+name+dydosua)](https://git.io/typing-svg)
+##
 
 
 <!--
