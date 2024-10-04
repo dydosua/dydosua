@@ -73,9 +73,6 @@ https://github-profile-summary-cards.vercel.app/demo.html
 <!--    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dydosua)    -->
 [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/is_wH2o)
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1117057516623376394)
-[![TryHackMe](https://img.shields.io/badge/tryhackme-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/dydosua)
-[![TryHackMe](https://img.shields.io/badge/hackthebox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://tryhackme.com/p/dydosua)
-[![CyberDefenders](https://img.shields.io/badge/cyberdefenders-335EEA?style=for-the-badge&logo=cyberdefenders&logoColor=white)](https://cyberdefenders.org/p/dydosua)
 [![OnlyFans](https://img.shields.io/badge/onlyfans-00AFF0?style=for-the-badge&logo=onlyfans&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <!--
